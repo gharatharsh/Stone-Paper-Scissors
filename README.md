@@ -1,6 +1,6 @@
 # ✊🖐✌️ Stone Paper Scissors – Python Game
 
-Try A fun and interactive **Python terminal game** where you challenge the computer in a classic match of Stone 🪨, Paper 📄, and Scissors ✂️.  
+A fun and interactive **Python terminal game** where you challenge the computer in a classic match of Stone 🪨, Paper 📄, and Scissors ✂️.  
 Make your move and see who wins!
 
 ---
